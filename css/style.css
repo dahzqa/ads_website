@@ -299,6 +299,9 @@ li{
         display: none;
     }
 
+    footer{
+        gap: 96px;
+    }
     .breadCrumbs{
         height: fit-content;
         flex-wrap: wrap;
@@ -344,5 +347,6 @@ li{
     }
     .horisontal{
         flex-wrap: wrap;
+        gap: 96px;
     }
 }
