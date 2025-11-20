@@ -113,6 +113,10 @@ h1{
     font-size: 60px;
     color: rgba(250, 250, 250, 1);
 }
+.heading{
+    font-size: 60px;
+    color: rgba(250, 250, 250, 1);
+}
 .W_WrapperHorizontal{
     display: flex;
     justify-content: space-between;
@@ -296,14 +300,21 @@ li{
     }
 
     .breadCrumbs{
+        height: fit-content;
         flex-wrap: wrap;
     }
-    .h1{
+    .heading{
         font-size: 24px;
     }
     .W_WrapperHorizontal{
         flex-wrap: wrap;
         gap: 12px;
+    }
+    .A_Chips{
+        font-size: 16px;
+    }
+    .A_Text{
+        font-size: 14px;
     }
     .responseAndVkAndText{
         flex-wrap: wrap;
