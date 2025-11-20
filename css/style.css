@@ -313,6 +313,9 @@ li{
         flex-wrap: wrap;
         gap: 12px;
     }
+    .C_OfferCardChips{
+        flex-wrap: wrap;
+    }
     .A_Chips{
         font-size: 16px;
         height: 33px;
